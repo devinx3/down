@@ -3,4 +3,4 @@
 git add *
 git pull
 git push
-git commit 'add file'
+git commit "add file"
